@@ -4,3 +4,4 @@ gitの練習をしていきます。
 
 /gihoea
 git status
+git diff をつかった
